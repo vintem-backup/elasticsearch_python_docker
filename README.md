@@ -12,3 +12,7 @@ Run with
 
 docker-compose build
 docker-compose up
+
+#Oficial mantainer of elasticsearch
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
